@@ -1,0 +1,201 @@
+- generic [active] [ref=f3e1]:
+  - dialog "Manage Cookie Consent" [ref=f3e2]:
+    - generic [ref=f3e3]:
+      - generic [ref=f3e4]: Manage Cookie Consent
+      - text: 
+    - generic [ref=f3e5]: To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    - button "Accept" [ref=f3e8] [cursor=pointer]
+    - list [ref=f3e10]:
+      - listitem [ref=f3e11]:
+        - link "Opt-out preferences" [ref=f3e12] [cursor=pointer]:
+          - /url: https://poppies.us/opt-out-preferences
+      - listitem [ref=f3e13]:
+        - link "Privacy Statement" [ref=f3e14] [cursor=pointer]:
+          - /url: https://poppies.us/privacy-statement-us
+      - listitem [ref=f3e15]:
+        - link "Imprint" [ref=f3e16] [cursor=pointer]:
+          - /url: https://poppies.us/imprint
+  - link "Skip to content" [ref=f3e17] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f3e18]:
+    - generic [ref=f3e20]:
+      - generic [ref=f3e21]:  
+      - link [ref=f3e27] [cursor=pointer]:
+        - /url: https://poppies.us
+        - img "Poppies" [ref=f3e28]
+      - generic [ref=f3e32]:
+        - button "Menu Toggle" [ref=f3e33] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f3e34]: 
+          - text: 
+        - text:      
+  - main [ref=f3e38]:
+    - article [ref=f3e39]:
+      - generic [ref=f3e40]:
+        - heading "Do Not Sell or Share My Personal Information" [level=1] [ref=f3e42]
+        - generic [ref=f3e50]:
+          - paragraph [ref=f3e51]: "Effective Date: 6/23/2026"
+          - paragraph
+          - paragraph [ref=f3e52]:
+            - strong [ref=f3e53]: YOUR PRIVACY RIGHTS
+          - paragraph
+          - paragraph [ref=f3e54]: Poppies Bakeries, LLC takes your privacy seriously. We utilize multiple mediums like social media, advertising, and email to deliver relevant marketing communications in an effective and safe manner.
+          - paragraph
+          - paragraph [ref=f3e55]: In order to create the most personalized experience as well as to ensure that you only receive relevant messaging from us, we may need to share specific information about you to our partners and service providers.
+          - paragraph
+          - paragraph [ref=f3e56]:
+            - strong [ref=f3e57]: CALIFORNIA RESIDENTS
+          - paragraph
+          - paragraph [ref=f3e58]: "Under the California Consumer Privacy Act (CPRA), residents of the state of California enjoy certain rights pertaining to how companies: collect, use, disclose, and share personal information."
+          - paragraph
+          - paragraph [ref=f3e59]: In order to provide the optimal user experience along with relevant messaging we use industry-standard advertising business practices that may be considered a “sale” or “share” under the definitions found within the CPRA.
+          - paragraph
+          - paragraph [ref=f3e60]: "EXAMPLES of how we might “sell” or “share” that information:"
+          - paragraph
+          - list:
+            - listitem:
+              - list
+          - list [ref=f3e61]:
+            - listitem [ref=f3e62]:
+              - list [ref=f3e63]:
+                - listitem [ref=f3e64]: Allowing advertising networks that we partner with to place cookies or other tracking technologies through our sites; and
+          - paragraph
+          - list [ref=f3e65]:
+            - listitem [ref=f3e66]:
+              - list [ref=f3e67]:
+                - listitem [ref=f3e68]: Sharing pseudonymized or hashed identifiers with advertising networks and other partners in order to create audiences to utilize in online advertising efforts
+          - paragraph
+          - paragraph
+          - paragraph [ref=f3e69]: "Under the CPRA, California residents have the right to request:"
+          - paragraph
+          - list:
+            - listitem:
+              - list
+          - list [ref=f3e70]:
+            - listitem [ref=f3e71]:
+              - list [ref=f3e72]:
+                - listitem [ref=f3e73]: Disclosure of personal information that we collect, use, disclose, and sell about you
+          - paragraph
+          - list [ref=f3e74]:
+            - listitem [ref=f3e75]:
+              - list [ref=f3e76]:
+                - listitem [ref=f3e77]: Deletion of your personal information that we store and maintain
+          - paragraph
+          - list [ref=f3e78]:
+            - listitem [ref=f3e79]:
+              - list [ref=f3e80]:
+                - listitem [ref=f3e81]: To opt out of the sale of your personal information.
+          - paragraph
+          - paragraph
+          - paragraph [ref=f3e82]:
+            - text: Poppies Bakeries, LLC does not knowingly sell personal information related to children under 16 years of age. If you are a parent or guardian and have questions about our practices regarding children’s data see our
+            - link "Privacy Policy" [ref=f3e83] [cursor=pointer]:
+              - /url: https://poppies.us/privacy-policy
+            - text: or email us at
+            - link "dataprivacy@poppies.us" [ref=f3e84] [cursor=pointer]:
+              - /url: mailto:dataprivacy@poppies.us
+            - text: .
+          - paragraph
+          - paragraph [ref=f3e85]:
+            - strong [ref=f3e86]: KNOW YOUR PRIVACY CHOICES
+          - paragraph
+          - paragraph [ref=f3e87]: The following list of privacy choices can be adjusted to your personal level of comfort.
+          - paragraph
+          - list:
+            - listitem:
+              - list
+          - list [ref=f3e88]:
+            - listitem [ref=f3e89]:
+              - list [ref=f3e90]:
+                - listitem [ref=f3e91]:
+                  - strong [ref=f3e92]: Profile Information
+                  - text: includes your name, address, email, purchase history, transactional data and any additional information that identifies you. You have the right to opt out of the sale or sharing of your Profile Information, or can designate an authorized representative, make a general privacy request, or request additional information by writing to 6610 Corporation Parkway Battleboro, NC 27809 or emailing
+                  - link "dataprivacy@poppies.us" [ref=f3e93] [cursor=pointer]:
+                    - /url: mailto:dataprivacy@poppies.us
+                  - text: . Your identity will be subject to authentication and we may follow-up with additional communications for verification purposes.
+          - paragraph
+          - paragraph
+          - paragraph [ref=f3e94]:
+            - strong [ref=f3e95]: Cookies and Cookie Data
+            - text: may include data and information associated with your usage of Poppies Bakeries, LLC websites, stores, or apps that utilize identifiers that cannot directly identify you. You have the right to opt out of the sale of Cookie Data by using the
+            - strong [ref=f3e96]: cookie consent tools
+            - text: available on our sites.
+          - paragraph
+          - paragraph [ref=f3e97]: Poppies Bakeries, LLC may verify requests regarding data subject access of Profile Information by confirming that you control the email address associated with the associated personal information. Your identity will be subject to authentication and we may follow-up with additional communications for verification purposes and we also reserve the right to take additional steps or require additional information to verify your request.
+          - paragraph
+          - paragraph [ref=f3e98]:
+            - strong [ref=f3e99]:
+              - emphasis [ref=f3e100]: You will not be discriminated against or receive any discriminatory treatment for exercising your privacy rights in any way. For any questions or concerns please contact
+            - link "dataprivacy@poppies.us" [ref=f3e101] [cursor=pointer]:
+              - /url: mailto:dataprivacy@poppies.us
+            - strong [ref=f3e102]:
+              - emphasis [ref=f3e103]: or refer our
+            - link [ref=f3e104] [cursor=pointer]:
+              - /url: https://poppies.us/privacy-policy
+              - strong [ref=f3e105]:
+                - emphasis [ref=f3e106]: Privacy Policy
+            - strong [ref=f3e107]:
+              - emphasis [ref=f3e108]: .
+          - paragraph
+  - contentinfo [ref=f3e110]:
+    - generic [ref=f3e112]:
+      - generic [ref=f3e114]:
+        - paragraph [ref=f3e117]: Subscribe to our newsletter for exclusive deals and the latest on products.
+        - form "New Form" [ref=f3e120]:
+          - generic [ref=f3e121]:
+            - textbox "Email Address" [ref=f3e123]
+            - generic [ref=f3e126]:
+              - checkbox "I agree to receive marketing emails from Poppies International Inc." [ref=f3e127]
+              - text: I agree to receive marketing emails from Poppies International Inc.
+            - button "Subscribe" [ref=f3e129] [cursor=pointer]
+        - generic [ref=f3e133]:
+          - text: By signing up, you are agreeing to our
+          - link "Privacy Policy" [ref=f3e134] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - text: .
+      - generic [ref=f3e136]:
+        - list [ref=f3e139]:
+          - listitem [ref=f3e140]:
+            - link "Instagram" [ref=f3e141] [cursor=pointer]:
+              - /url: https://www.instagram.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f3e143]: 
+          - listitem [ref=f3e144]:
+            - link "Facebook" [ref=f3e145] [cursor=pointer]:
+              - /url: https://www.facebook.com/EatPoppiesTreats/
+              - generic [aria-hidden] [ref=f3e147]: 
+          - listitem [ref=f3e148]:
+            - link "Twitter" [ref=f3e149] [cursor=pointer]:
+              - /url: https://twitter.com/PoppiesTreats
+              - generic [aria-hidden] [ref=f3e151]: 
+          - listitem [ref=f3e152]:
+            - link "Pinterest" [ref=f3e153] [cursor=pointer]:
+              - /url: https://www.pinterest.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f3e155]: 
+          - listitem [ref=f3e156]:
+            - link "Linkedin-in" [ref=f3e157] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/poppies-int/
+              - generic [aria-hidden] [ref=f3e159]: 
+        - link "FAQ" [ref=f3e162] [cursor=pointer]:
+          - /url: https://poppies.us/faq/
+        - navigation "Menu" [ref=f3e165]:
+          - list [ref=f3e166]:
+            - listitem [ref=f3e167]:
+              - link "Privacy Policy" [ref=f3e168] [cursor=pointer]:
+                - /url: https://poppies.us/privacy-policy
+            - listitem [ref=f3e169]:
+              - link "Terms of Use" [ref=f3e170] [cursor=pointer]:
+                - /url: https://poppies.us/terms-of-use
+            - listitem [ref=f3e171]:
+              - link "Delizza.us" [ref=f3e172] [cursor=pointer]:
+                - /url: https://delizza.us
+            - listitem [ref=f3e173] [cursor=pointer]:
+              - generic [ref=f3e174]: Manage Consent
+        - navigation "Menu" [ref=f3e177]:
+          - list [ref=f3e178]:
+            - listitem [ref=f3e179]:
+              - link "Do Not Sell or Share My Personal Information" [ref=f3e180] [cursor=pointer]:
+                - /url: https://poppies.us/do-not-sell-or-share-my-personal-information
+            - listitem [ref=f3e181]:
+              - link "Grievance Procedure" [ref=f3e182] [cursor=pointer]:
+                - /url: https://poppies.us/wp-content/uploads/2026/04/Local-Community-and-Indigenous-Grievance-Mechanism.pdf
+        - generic [ref=f3e183]: © 2023 Poppies International Inc.
+  - generic [ref=f3e185]: mobile

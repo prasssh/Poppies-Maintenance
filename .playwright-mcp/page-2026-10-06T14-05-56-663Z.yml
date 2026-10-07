@@ -1,0 +1,261 @@
+- generic [active] [ref=f4e1]:
+  - dialog "Manage Cookie Consent" [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - generic [ref=f4e4]: Manage Cookie Consent
+      - text: 
+    - generic [ref=f4e5]: To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    - button "Accept" [ref=f4e8] [cursor=pointer]
+    - list [ref=f4e10]:
+      - listitem [ref=f4e11]:
+        - link "Opt-out preferences" [ref=f4e12] [cursor=pointer]:
+          - /url: https://poppies.us/opt-out-preferences
+      - listitem [ref=f4e13]:
+        - link "Privacy Statement" [ref=f4e14] [cursor=pointer]:
+          - /url: https://poppies.us/privacy-statement-us
+      - listitem [ref=f4e15]:
+        - link "Imprint" [ref=f4e16] [cursor=pointer]:
+          - /url: https://poppies.us/imprint
+  - link "Skip to content" [ref=f4e17] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f4e18]:
+    - generic [ref=f4e20]:
+      - generic [ref=f4e24]:
+        - navigation "Menu" [ref=f4e25]:
+          - list [ref=f4e26]:
+            - listitem [ref=f4e27]:
+              - link [ref=f4e28] [cursor=pointer]:
+                - /url: https://poppies.us/products
+                - text: Products
+                - generic [ref=f4e29]:
+                  - generic [aria-hidden]: 
+        - text: 
+      - link [ref=f4e34] [cursor=pointer]:
+        - /url: https://poppies.us
+        - img "Poppies" [ref=f4e35]
+      - generic [ref=f4e39]:
+        - navigation "Menu" [ref=f4e42]:
+          - list [ref=f4e43]:
+            - listitem [ref=f4e44]:
+              - link "Where to Buy" [ref=f4e45] [cursor=pointer]:
+                - /url: https://poppies.us/where-to-buy
+            - listitem [ref=f4e46]:
+              - link "Contact Us" [ref=f4e47] [cursor=pointer]:
+                - /url: https://poppies.us/contact-us
+        - text:        
+  - main [ref=f4e51]:
+    - article [ref=f4e52]:
+      - generic [ref=f4e55]:
+        - generic [ref=f4e61]:
+          - text:  
+          - region "Slides" [ref=f4e65]:
+            - generic [ref=f4e66]:
+              - group "1 / 5" [ref=f4e67]:
+                - img "poppies-macarons" [ref=f4e68]
+                - 'link "Poppies Macarons: Find them in your bakery dept. Where to Buy" [ref=f4e69] [cursor=pointer]':
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e70]:
+                    - generic [ref=f4e71]: Poppies Macarons:Find them in your bakery dept.
+                    - generic [ref=f4e72]: Where to Buy
+              - group "2 / 5" [ref=f4e73]:
+                - img "24-DLZ-249_Poppies_2024_Web_Maintenance_Homepage_ISB_Eclairs_Slider_1920x1108_v1" [ref=f4e74]
+                - link "Indulge in bakery-fresh elegance with Grab & Go Eclairs LEARN MORE" [ref=f4e75] [cursor=pointer]:
+                  - /url: /custard-eclairs-4-count
+                  - generic [ref=f4e76]:
+                    - generic [ref=f4e77]: Indulge in bakery-freshelegance with Grab & Go Eclairs
+                    - generic [ref=f4e78]: LEARN MORE
+              - group "3 / 5" [ref=f4e79]:
+                - img "poppies-slider-img-1" [ref=f4e80]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e81] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e82]:
+                    - generic [ref=f4e83]: Bliss in every bite.
+                    - generic [ref=f4e84]: Where to Buy
+              - group "4 / 5" [ref=f4e85]:
+                - img "Slider_02_CreamPuffs_v3" [ref=f4e86]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e87] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e88]:
+                    - generic [ref=f4e89]: Bliss in every bite.
+                    - generic [ref=f4e90]: Where to Buy
+              - group "5 / 5" [ref=f4e91]:
+                - img "Slider_02_Eclairs_v3" [ref=f4e92]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e93] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e94]:
+                    - generic [ref=f4e95]: Bliss in every bite.
+                    - generic [ref=f4e96]: Where to Buy
+              - group "1 / 5" [ref=f4e97]:
+                - img "poppies-macarons" [ref=f4e98]
+                - 'link "Poppies Macarons: Find them in your bakery dept. Where to Buy" [ref=f4e99] [cursor=pointer]':
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e100]:
+                    - generic [ref=f4e101]: Poppies Macarons:Find them in your bakery dept.
+                    - generic [ref=f4e102]: Where to Buy
+              - group "2 / 5" [ref=f4e103]:
+                - img "24-DLZ-249_Poppies_2024_Web_Maintenance_Homepage_ISB_Eclairs_Slider_1920x1108_v1" [ref=f4e104]
+                - link "Indulge in bakery-fresh elegance with Grab & Go Eclairs LEARN MORE" [ref=f4e105] [cursor=pointer]:
+                  - /url: /custard-eclairs-4-count
+                  - generic [ref=f4e106]:
+                    - generic [ref=f4e107]: Indulge in bakery-freshelegance with Grab & Go Eclairs
+                    - generic [ref=f4e108]: LEARN MORE
+              - group "3 / 5" [ref=f4e109]:
+                - img "poppies-slider-img-1" [ref=f4e110]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e111] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e112]:
+                    - generic [ref=f4e113]: Bliss in every bite.
+                    - generic [ref=f4e114]: Where to Buy
+              - group "4 / 5" [ref=f4e115]:
+                - img "Slider_02_CreamPuffs_v3" [ref=f4e116]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e117] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e118]:
+                    - generic [ref=f4e119]: Bliss in every bite.
+                    - generic [ref=f4e120]: Where to Buy
+              - group "5 / 5" [ref=f4e121]:
+                - img "Slider_02_Eclairs_v3" [ref=f4e122]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e123] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e124]:
+                    - generic [ref=f4e125]: Bliss in every bite.
+                    - generic [ref=f4e126]: Where to Buy
+              - group "1 / 5" [ref=f4e127]:
+                - img "poppies-macarons" [ref=f4e128]
+                - 'link "Poppies Macarons: Find them in your bakery dept. Where to Buy" [ref=f4e129] [cursor=pointer]':
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e130]:
+                    - generic [ref=f4e131]: Poppies Macarons:Find them in your bakery dept.
+                    - generic [ref=f4e132]: Where to Buy
+              - group "2 / 5" [ref=f4e133]:
+                - img "24-DLZ-249_Poppies_2024_Web_Maintenance_Homepage_ISB_Eclairs_Slider_1920x1108_v1" [ref=f4e134]
+                - link "Indulge in bakery-fresh elegance with Grab & Go Eclairs LEARN MORE" [ref=f4e135] [cursor=pointer]:
+                  - /url: /custard-eclairs-4-count
+                  - generic [ref=f4e136]:
+                    - generic [ref=f4e137]: Indulge in bakery-freshelegance with Grab & Go Eclairs
+                    - generic [ref=f4e138]: LEARN MORE
+              - group "3 / 5" [ref=f4e139]:
+                - img "poppies-slider-img-1" [ref=f4e140]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e141] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e142]:
+                    - generic [ref=f4e143]: Bliss in every bite.
+                    - generic [ref=f4e144]: Where to Buy
+              - group "4 / 5" [ref=f4e145]:
+                - img "Slider_02_CreamPuffs_v3" [ref=f4e146]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e147] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e148]:
+                    - generic [ref=f4e149]: Bliss in every bite.
+                    - generic [ref=f4e150]: Where to Buy
+              - group "5 / 5" [ref=f4e151]:
+                - img "Slider_02_Eclairs_v3" [ref=f4e152]
+                - link "Bliss in every bite. Where to Buy" [ref=f4e153] [cursor=pointer]:
+                  - /url: /where-to-buy/
+                  - generic [ref=f4e154]:
+                    - generic [ref=f4e155]: Bliss in every bite.
+                    - generic [ref=f4e156]: Where to Buy
+            - button "Previous slide" [ref=f4e157] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e158]: 
+            - button "Next slide" [ref=f4e159] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e160]: 
+            - generic [ref=f4e161]:
+              - button "Go to slide 1" [ref=f4e162] [cursor=pointer]
+              - button "Go to slide 2" [ref=f4e163] [cursor=pointer]
+              - button "Go to slide 3" [ref=f4e164] [cursor=pointer]
+              - button "Go to slide 4" [ref=f4e165] [cursor=pointer]
+              - button "Go to slide 5" [ref=f4e166] [cursor=pointer]
+        - generic [ref=f4e168]:
+          - img "Products" [ref=f4e173]
+          - generic [ref=f4e175]:
+            - paragraph [ref=f4e178]: Poppies creates irresistibly delicious cookies and frozen desserts that are always there for you, no matter what.
+            - link "Products" [ref=f4e182] [cursor=pointer]:
+              - /url: /products/
+        - paragraph [ref=f4e193]:
+          - text: Made with nothing but the finest ingredients, and lots of love, Poppies cookies are
+          - strong [ref=f4e194]: baked fresh
+          - text: and carefully crafted to
+          - strong [ref=f4e195]: stay fresh
+          - text: . It’s hard work, but so what? These cookies are made to make your day, and that makes it all worthwhile.
+        - paragraph [ref=f4e210]:
+          - text: Our collection of mini cream puffs and eclairs is frozen the moment they’re prepared, so you can
+          - strong [ref=f4e211]: savor the flavor
+          - text: whenever you’re in the mood for something extraordinary.
+        - generic [ref=f4e215]:
+          - generic [ref=f4e217]:
+            - paragraph [ref=f4e220]: Born in Belgium
+            - generic [ref=f4e222]:
+              - paragraph [ref=f4e223]: In 1935, talented Belgian baker Albert Popelier opened his very first shop. With his son Luc by his side, his small family-owned business went on to create the world’s most beloved biscuits.
+              - paragraph [ref=f4e224]: "In the late 1970s, the Popelier and Castelein baking families united to launch Poppies. Their biggest challenge: Crafting their authentic delicacies for millions to enjoy, without compromising on quality or taste. With passion and determination, they achieved their dream."
+              - paragraph [ref=f4e225]: Today, we honor their legacy by using only the finest ingredients and continuing their innovative spirit. From the kitchens of our local bakeries around the globe, we’re proud to bring you bliss in every bite.
+              - paragraph [ref=f4e226]: From our family to yours,Poppies
+          - img "Bakery" [ref=f4e231]
+        - generic [ref=f4e235]:
+          - heading "Follow Us @eatpoppiestreats" [level=2] [ref=f4e238]
+          - region "Instagram feed" [ref=f4e241]:
+            - list
+  - contentinfo [ref=f4e243]:
+    - generic [ref=f4e245]:
+      - generic [ref=f4e247]:
+        - paragraph [ref=f4e250]: Subscribe to our newsletter for exclusive deals and the latest on products.
+        - form "New Form" [ref=f4e253]:
+          - generic [ref=f4e254]:
+            - textbox "Email Address" [ref=f4e256]
+            - generic [ref=f4e259]:
+              - checkbox "I agree to receive marketing emails from Poppies International Inc." [ref=f4e260]
+              - text: I agree to receive marketing emails from Poppies International Inc.
+            - button "Subscribe" [ref=f4e262] [cursor=pointer]
+        - generic [ref=f4e266]:
+          - text: By signing up, you are agreeing to our
+          - link "Privacy Policy" [ref=f4e267] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - text: .
+      - generic [ref=f4e269]:
+        - list [ref=f4e272]:
+          - listitem [ref=f4e273]:
+            - link "Instagram" [ref=f4e274] [cursor=pointer]:
+              - /url: https://www.instagram.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f4e276]: 
+          - listitem [ref=f4e277]:
+            - link "Facebook" [ref=f4e278] [cursor=pointer]:
+              - /url: https://www.facebook.com/EatPoppiesTreats/
+              - generic [aria-hidden] [ref=f4e280]: 
+          - listitem [ref=f4e281]:
+            - link "Twitter" [ref=f4e282] [cursor=pointer]:
+              - /url: https://twitter.com/PoppiesTreats
+              - generic [aria-hidden] [ref=f4e284]: 
+          - listitem [ref=f4e285]:
+            - link "Pinterest" [ref=f4e286] [cursor=pointer]:
+              - /url: https://www.pinterest.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f4e288]: 
+          - listitem [ref=f4e289]:
+            - link "Linkedin-in" [ref=f4e290] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/poppies-int/
+              - generic [aria-hidden] [ref=f4e292]: 
+        - link "FAQ" [ref=f4e295] [cursor=pointer]:
+          - /url: https://poppies.us/faq/
+        - navigation "Menu" [ref=f4e298]:
+          - list [ref=f4e299]:
+            - listitem [ref=f4e300]:
+              - link "Privacy Policy" [ref=f4e301] [cursor=pointer]:
+                - /url: https://poppies.us/privacy-policy
+            - listitem [ref=f4e302]:
+              - link "Terms of Use" [ref=f4e303] [cursor=pointer]:
+                - /url: https://poppies.us/terms-of-use
+            - listitem [ref=f4e304]:
+              - link "Delizza.us" [ref=f4e305] [cursor=pointer]:
+                - /url: https://delizza.us
+            - listitem [ref=f4e306]:
+              - link "Poppies.com" [ref=f4e307] [cursor=pointer]:
+                - /url: https://poppies.com
+            - listitem [ref=f4e308] [cursor=pointer]:
+              - generic [ref=f4e309]: Manage Consent
+        - navigation "Menu" [ref=f4e312]:
+          - list [ref=f4e313]:
+            - listitem [ref=f4e314]:
+              - link "Do Not Sell or Share My Personal Information" [ref=f4e315] [cursor=pointer]:
+                - /url: https://poppies.us/do-not-sell-or-share-my-personal-information
+            - listitem [ref=f4e316]:
+              - link "Grievance Procedure" [ref=f4e317] [cursor=pointer]:
+                - /url: https://poppies.us/wp-content/uploads/2026/04/Local-Community-and-Indigenous-Grievance-Mechanism.pdf
+        - generic [ref=f4e318]: © 2023 Poppies International Inc.
+  - generic [ref=f4e320]: desktop

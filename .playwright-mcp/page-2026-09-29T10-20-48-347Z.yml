@@ -1,0 +1,131 @@
+- generic [active] [ref=e1]:
+  - dialog "Manage Cookie Consent" [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: Manage Cookie Consent
+      - text: 
+    - generic [ref=e5]: To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    - button "Accept" [ref=e8] [cursor=pointer]
+    - list [ref=e10]:
+      - listitem [ref=e11]:
+        - link "Opt-out preferences" [ref=e12] [cursor=pointer]:
+          - /url: https://poppiesusadev.wpengine.com/opt-out-preferences
+      - listitem [ref=e13]:
+        - link "Privacy Statement" [ref=e14] [cursor=pointer]:
+          - /url: https://poppiesusadev.wpengine.com/privacy-statement-us
+      - listitem [ref=e15]:
+        - link "Imprint" [ref=e16] [cursor=pointer]:
+          - /url: https://poppiesusadev.wpengine.com/imprint
+  - link "Skip to content" [ref=e17] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e18]:
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - navigation "Menu" [ref=e25]:
+          - list [ref=e26]:
+            - listitem [ref=e27]:
+              - link [ref=e28] [cursor=pointer]:
+                - /url: https://poppiesusadev.wpengine.com/products
+                - text: Products
+                - generic [ref=e29]:
+                  - generic [aria-hidden]: 
+        - text: 
+      - link [ref=e34] [cursor=pointer]:
+        - /url: https://poppiesusadev.wpengine.com
+        - img "Poppies" [ref=e35]
+      - generic [ref=e39]:
+        - navigation "Menu" [ref=e42]:
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - link "Where to Buy" [ref=e45] [cursor=pointer]:
+                - /url: https://poppiesusadev.wpengine.com/where-to-buy
+            - listitem [ref=e46]:
+              - link "Contact Us" [ref=e47] [cursor=pointer]:
+                - /url: https://poppiesusadev.wpengine.com/contact-us
+        - text:        
+  - main [ref=e51]:
+    - article [ref=e52]:
+      - generic [ref=e53]:
+        - heading "Where to Buy" [level=1] [ref=e55]
+        - generic [ref=e57]:
+          - paragraph [ref=e64]: Poppies is proud to be available in major supermarkets and clubs around the United States.Visit one of the stores below to pick up your favorite treats.
+          - generic [ref=e75]:
+            - generic [ref=e76]: Loading...
+            - generic [ref=e79]:
+              - generic [ref=e80]: Powered by
+              - generic [ref=e81]:
+                - text: Destini
+                - superscript [ref=e82]: TM
+                - text: Product Locators
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"
+  - contentinfo [ref=e84]:
+    - generic [ref=e86]:
+      - generic [ref=e88]:
+        - paragraph [ref=e91]: Subscribe to our newsletter for exclusive deals and the latest on products.
+        - form "New Form" [ref=e94]:
+          - generic [ref=e95]:
+            - textbox "Email Address" [ref=e97]
+            - generic [ref=e100]:
+              - checkbox "I agree to receive marketing emails from Poppies International Inc." [ref=e101]
+              - text: I agree to receive marketing emails from Poppies International Inc.
+            - button "Subscribe" [ref=e103] [cursor=pointer]
+        - generic [ref=e107]:
+          - text: By signing up, you are agreeing to our
+          - link "Privacy Policy" [ref=e108] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - text: .
+      - generic [ref=e110]:
+        - list [ref=e113]:
+          - listitem [ref=e114]:
+            - link "Instagram" [ref=e115] [cursor=pointer]:
+              - /url: https://www.instagram.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=e117]: 
+          - listitem [ref=e118]:
+            - link "Facebook" [ref=e119] [cursor=pointer]:
+              - /url: https://www.facebook.com/EatPoppiesTreats/
+              - generic [aria-hidden] [ref=e121]: 
+          - listitem [ref=e122]:
+            - link "Twitter" [ref=e123] [cursor=pointer]:
+              - /url: https://twitter.com/PoppiesTreats
+              - generic [aria-hidden] [ref=e125]: 
+          - listitem [ref=e126]:
+            - link "Pinterest" [ref=e127] [cursor=pointer]:
+              - /url: https://www.pinterest.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=e129]: 
+          - listitem [ref=e130]:
+            - link "Linkedin-in" [ref=e131] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/poppies-int/
+              - generic [aria-hidden] [ref=e133]: 
+        - link "FAQ" [ref=e136] [cursor=pointer]:
+          - /url: https://poppies.us/faq/
+        - navigation "Menu" [ref=e139]:
+          - list [ref=e140]:
+            - listitem [ref=e141]:
+              - link "Privacy Policy" [ref=e142] [cursor=pointer]:
+                - /url: https://poppiesusadev.wpengine.com/privacy-policy
+            - listitem [ref=e143]:
+              - link "Terms of Use" [ref=e144] [cursor=pointer]:
+                - /url: https://poppiesusadev.wpengine.com/terms-of-use
+            - listitem [ref=e145]:
+              - link "Delizza.us" [ref=e146] [cursor=pointer]:
+                - /url: https://delizza.us
+            - listitem [ref=e147]:
+              - link "Poppies.com" [ref=e148] [cursor=pointer]:
+                - /url: https://poppies.com
+            - listitem [ref=e149] [cursor=pointer]:
+              - generic [ref=e150]: Manage Consent
+        - navigation "Menu" [ref=e153]:
+          - list [ref=e154]:
+            - listitem [ref=e155]:
+              - link "Do Not Sell or Share My Personal Information" [ref=e156] [cursor=pointer]:
+                - /url: https://poppiesusadev.wpengine.com/do-not-sell-or-share-my-personal-information
+            - listitem [ref=e157]:
+              - link "Grievance Procedure" [ref=e158] [cursor=pointer]:
+                - /url: https://poppiesusadev.wpengine.com/wp-content/uploads/2026/04/Local-Community-and-Indigenous-Grievance-Mechanism.pdf
+        - generic [ref=e159]: © 2023 Poppies International Inc.
+  - generic [ref=e161]: desktop

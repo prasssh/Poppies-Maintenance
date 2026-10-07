@@ -1,0 +1,156 @@
+- generic [active] [ref=f4e1]:
+  - dialog "Manage Cookie Consent" [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - generic [ref=f4e4]: Manage Cookie Consent
+      - text: 
+    - generic [ref=f4e5]: To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    - button "Accept" [ref=f4e8] [cursor=pointer]
+    - list [ref=f4e10]:
+      - listitem [ref=f4e11]:
+        - link "Opt-out preferences" [ref=f4e12] [cursor=pointer]:
+          - /url: https://poppies.us/opt-out-preferences
+      - listitem [ref=f4e13]:
+        - link "Privacy Statement" [ref=f4e14] [cursor=pointer]:
+          - /url: https://poppies.us/privacy-statement-us
+      - listitem [ref=f4e15]:
+        - link "Imprint" [ref=f4e16] [cursor=pointer]:
+          - /url: https://poppies.us/imprint
+  - link "Skip to content" [ref=f4e17] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f4e18]:
+    - generic [ref=f4e20]:
+      - generic [ref=f4e24]:
+        - navigation "Menu" [ref=f4e25]:
+          - list [ref=f4e26]:
+            - listitem [ref=f4e27]:
+              - link [ref=f4e28] [cursor=pointer]:
+                - /url: https://poppies.us/products
+                - text: Products
+                - generic [ref=f4e29]:
+                  - generic [aria-hidden]: 
+        - text: 
+      - link [ref=f4e34] [cursor=pointer]:
+        - /url: https://poppies.us
+        - img "Poppies" [ref=f4e35]
+      - generic [ref=f4e39]:
+        - navigation "Menu" [ref=f4e42]:
+          - list [ref=f4e43]:
+            - listitem [ref=f4e44]:
+              - link "Where to Buy" [ref=f4e45] [cursor=pointer]:
+                - /url: https://poppies.us/where-to-buy
+            - listitem [ref=f4e46]:
+              - link "Contact Us" [ref=f4e47] [cursor=pointer]:
+                - /url: https://poppies.us/contact-us
+        - text:        
+  - main [ref=f4e51]:
+    - article [ref=f4e52]:
+      - generic [ref=f4e57]:
+        - generic [ref=f4e64]:
+          - generic [ref=f4e66]:
+            - generic:
+              - img "mini-cream-puffs-38pc-1" [ref=f4e69]
+              - img "24-DLZ-249_Product_Silos_1024x1024_CP" [ref=f4e73]
+          - generic [ref=f4e75]:
+            - img "mini-cream-puffs-38pc-1" [ref=f4e77] [cursor=pointer]
+            - img "24-DLZ-249_Product_Silos_1024x1024_CP" [ref=f4e79] [cursor=pointer]
+        - generic [ref=f4e81]:
+          - heading "Mini Cream Puffs" [level=2] [ref=f4e84]
+          - navigation "Menu" [ref=f4e87]:
+            - list [ref=f4e88]:
+              - listitem [ref=f4e89]:
+                - link "38-Count" [ref=f4e90] [cursor=pointer]:
+                  - /url: https://poppies.us/products/mini-cream-puffs-38-count
+              - listitem [ref=f4e91]:
+                - link "50-Count" [ref=f4e92] [cursor=pointer]:
+                  - /url: https://poppies.us/products/mini-cream-puffs-50-count
+          - paragraph [ref=f4e95]: Poppies mini cream puffs combine the best of Old World recipes with state-of-the art baking technology. These delicious mini cream puffs are made with traditional choux pastry shells, filled to the brim with whipped cream. They are a great complement to cappuccino and rich coffees, and are perfect for dinner parties, or whenever people enjoy the good things in life.
+          - list [ref=f4e98]:
+            - listitem [ref=f4e99]
+            - listitem [ref=f4e102]:
+              - generic [ref=f4e103]: Kosher Dairy (50-COUNT ONLY)
+          - generic [ref=f4e106]:
+            - button "Nutrition Facts" [ref=f4e108] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e109]:
+                - generic [ref=f4e110]: 
+                - text: 
+              - text: Nutrition Facts
+            - button "Ingredients" [ref=f4e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e114]:
+                - generic [ref=f4e115]: 
+                - text: 
+              - text: Ingredients
+          - form [ref=f4e119]:
+            - generic [ref=f4e123]:
+              - generic [ref=f4e125]:
+                - textbox "Zip *" [ref=f4e130]:
+                  - /placeholder: Enter ZIP Code
+                - button "Find It" [ref=f4e135] [cursor=pointer]
+              - generic:
+                - generic:
+                  - alert
+  - contentinfo [ref=f4e138]:
+    - generic [ref=f4e140]:
+      - generic [ref=f4e142]:
+        - paragraph [ref=f4e145]: Subscribe to our newsletter for exclusive deals and the latest on products.
+        - form "New Form" [ref=f4e148]:
+          - generic [ref=f4e149]:
+            - textbox "Email Address" [ref=f4e151]
+            - generic [ref=f4e154]:
+              - checkbox "I agree to receive marketing emails from Poppies International Inc." [ref=f4e155]
+              - text: I agree to receive marketing emails from Poppies International Inc.
+            - button "Subscribe" [ref=f4e157] [cursor=pointer]
+        - generic [ref=f4e161]:
+          - text: By signing up, you are agreeing to our
+          - link "Privacy Policy" [ref=f4e162] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - text: .
+      - generic [ref=f4e164]:
+        - list [ref=f4e167]:
+          - listitem [ref=f4e168]:
+            - link "Instagram" [ref=f4e169] [cursor=pointer]:
+              - /url: https://www.instagram.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f4e171]: 
+          - listitem [ref=f4e172]:
+            - link "Facebook" [ref=f4e173] [cursor=pointer]:
+              - /url: https://www.facebook.com/EatPoppiesTreats/
+              - generic [aria-hidden] [ref=f4e175]: 
+          - listitem [ref=f4e176]:
+            - link "Twitter" [ref=f4e177] [cursor=pointer]:
+              - /url: https://twitter.com/PoppiesTreats
+              - generic [aria-hidden] [ref=f4e179]: 
+          - listitem [ref=f4e180]:
+            - link "Pinterest" [ref=f4e181] [cursor=pointer]:
+              - /url: https://www.pinterest.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f4e183]: 
+          - listitem [ref=f4e184]:
+            - link "Linkedin-in" [ref=f4e185] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/poppies-int/
+              - generic [aria-hidden] [ref=f4e187]: 
+        - link "FAQ" [ref=f4e190] [cursor=pointer]:
+          - /url: https://poppies.us/faq/
+        - navigation "Menu" [ref=f4e193]:
+          - list [ref=f4e194]:
+            - listitem [ref=f4e195]:
+              - link "Privacy Policy" [ref=f4e196] [cursor=pointer]:
+                - /url: https://poppies.us/privacy-policy
+            - listitem [ref=f4e197]:
+              - link "Terms of Use" [ref=f4e198] [cursor=pointer]:
+                - /url: https://poppies.us/terms-of-use
+            - listitem [ref=f4e199]:
+              - link "Delizza.us" [ref=f4e200] [cursor=pointer]:
+                - /url: https://delizza.us
+            - listitem [ref=f4e201]:
+              - link "Poppies.com" [ref=f4e202] [cursor=pointer]:
+                - /url: https://poppies.com
+            - listitem [ref=f4e203] [cursor=pointer]:
+              - generic [ref=f4e204]: Manage Consent
+        - navigation "Menu" [ref=f4e207]:
+          - list [ref=f4e208]:
+            - listitem [ref=f4e209]:
+              - link "Do Not Sell or Share My Personal Information" [ref=f4e210] [cursor=pointer]:
+                - /url: https://poppies.us/do-not-sell-or-share-my-personal-information
+            - listitem [ref=f4e211]:
+              - link "Grievance Procedure" [ref=f4e212] [cursor=pointer]:
+                - /url: https://poppies.us/wp-content/uploads/2026/04/Local-Community-and-Indigenous-Grievance-Mechanism.pdf
+        - generic [ref=f4e213]: © 2023 Poppies International Inc.
+  - generic [ref=f4e215]: desktop

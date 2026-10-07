@@ -1,0 +1,133 @@
+- generic [active] [ref=f6e1]:
+  - dialog "Manage Cookie Consent" [ref=f6e2]:
+    - generic [ref=f6e3]:
+      - generic [ref=f6e4]: Manage Cookie Consent
+      - text: 
+    - generic [ref=f6e5]: To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    - button "Accept" [ref=f6e8] [cursor=pointer]
+    - list [ref=f6e10]:
+      - listitem [ref=f6e11]:
+        - link "Opt-out preferences" [ref=f6e12] [cursor=pointer]:
+          - /url: https://poppies.us/opt-out-preferences
+      - listitem [ref=f6e13]:
+        - link "Privacy Statement" [ref=f6e14] [cursor=pointer]:
+          - /url: https://poppies.us/privacy-statement-us
+      - listitem [ref=f6e15]:
+        - link "Imprint" [ref=f6e16] [cursor=pointer]:
+          - /url: https://poppies.us/imprint
+  - link "Skip to content" [ref=f6e17] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f6e18]:
+    - generic [ref=f6e20]:
+      - generic [ref=f6e21]:  
+      - link [ref=f6e27] [cursor=pointer]:
+        - /url: https://poppies.us
+        - img "Poppies" [ref=f6e28]
+      - generic [ref=f6e32]:
+        - button "Menu Toggle" [ref=f6e33] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f6e34]: 
+          - text: 
+        - text:      
+  - main [ref=f6e38]:
+    - article [ref=f6e39]:
+      - generic [ref=f6e44]:
+        - generic [ref=f6e51]:
+          - generic [ref=f6e53]:
+            - generic:
+              - img "Product_Silos_600x600_ISB_Macarons_4ct" [ref=f6e56]
+              - img "24-DLZ-249_Product_Silos_1024x1024_MAC" [ref=f6e60]
+          - generic [ref=f6e62]:
+            - img "Product_Silos_600x600_ISB_Macarons_4ct" [ref=f6e64] [cursor=pointer]
+            - img "24-DLZ-249_Product_Silos_1024x1024_MAC" [ref=f6e66] [cursor=pointer]
+        - generic [ref=f6e68]:
+          - heading "Grab & Go Macarons" [level=2] [ref=f6e71]
+          - navigation "Menu" [ref=f6e74]:
+            - list [ref=f6e75]:
+              - listitem [ref=f6e76]:
+                - link "4-Count" [ref=f6e77] [cursor=pointer]:
+                  - /url: https://poppies.us/products/macarons-4-count
+              - listitem [ref=f6e78]:
+                - link "6-Count" [ref=f6e79] [cursor=pointer]:
+                  - /url: https://poppies.us/products/macarons-6-count
+              - listitem [ref=f6e80]:
+                - link "10-Count" [ref=f6e81] [cursor=pointer]:
+                  - /url: https://poppies.us/products/macarons-10-count
+          - paragraph [ref=f6e84]: "Poppies macarons are made fresh to make your day. Crafted in the classic European tradition with the finest ingredients, these light-as-air delights come in an assortment of four irresistible flavors: chocolate, pistachio, strawberry, and salted caramel."
+          - generic:
+            - generic:
+              - list:
+                - listitem
+          - generic [ref=f6e87]:
+            - button "Nutrition Facts" [ref=f6e89] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f6e90]:
+                - generic [ref=f6e91]: 
+                - text: 
+              - text: Nutrition Facts
+            - button "Ingredients" [ref=f6e94] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f6e95]:
+                - generic [ref=f6e96]: 
+                - text: 
+              - text: Ingredients
+  - contentinfo [ref=f6e99]:
+    - generic [ref=f6e101]:
+      - generic [ref=f6e103]:
+        - paragraph [ref=f6e106]: Subscribe to our newsletter for exclusive deals and the latest on products.
+        - form "New Form" [ref=f6e109]:
+          - generic [ref=f6e110]:
+            - textbox "Email Address" [ref=f6e112]
+            - generic [ref=f6e115]:
+              - checkbox "I agree to receive marketing emails from Poppies International Inc." [ref=f6e116]
+              - text: I agree to receive marketing emails from Poppies International Inc.
+            - button "Subscribe" [ref=f6e118] [cursor=pointer]
+        - generic [ref=f6e122]:
+          - text: By signing up, you are agreeing to our
+          - link "Privacy Policy" [ref=f6e123] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - text: .
+      - generic [ref=f6e125]:
+        - list [ref=f6e128]:
+          - listitem [ref=f6e129]:
+            - link "Instagram" [ref=f6e130] [cursor=pointer]:
+              - /url: https://www.instagram.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f6e132]: 
+          - listitem [ref=f6e133]:
+            - link "Facebook" [ref=f6e134] [cursor=pointer]:
+              - /url: https://www.facebook.com/EatPoppiesTreats/
+              - generic [aria-hidden] [ref=f6e136]: 
+          - listitem [ref=f6e137]:
+            - link "Twitter" [ref=f6e138] [cursor=pointer]:
+              - /url: https://twitter.com/PoppiesTreats
+              - generic [aria-hidden] [ref=f6e140]: 
+          - listitem [ref=f6e141]:
+            - link "Pinterest" [ref=f6e142] [cursor=pointer]:
+              - /url: https://www.pinterest.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=f6e144]: 
+          - listitem [ref=f6e145]:
+            - link "Linkedin-in" [ref=f6e146] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/poppies-int/
+              - generic [aria-hidden] [ref=f6e148]: 
+        - link "FAQ" [ref=f6e151] [cursor=pointer]:
+          - /url: https://poppies.us/faq/
+        - navigation "Menu" [ref=f6e154]:
+          - list [ref=f6e155]:
+            - listitem [ref=f6e156]:
+              - link "Privacy Policy" [ref=f6e157] [cursor=pointer]:
+                - /url: https://poppies.us/privacy-policy
+            - listitem [ref=f6e158]:
+              - link "Terms of Use" [ref=f6e159] [cursor=pointer]:
+                - /url: https://poppies.us/terms-of-use
+            - listitem [ref=f6e160]:
+              - link "Delizza.us" [ref=f6e161] [cursor=pointer]:
+                - /url: https://delizza.us
+            - listitem [ref=f6e162] [cursor=pointer]:
+              - generic [ref=f6e163]: Manage Consent
+        - navigation "Menu" [ref=f6e166]:
+          - list [ref=f6e167]:
+            - listitem [ref=f6e168]:
+              - link "Do Not Sell or Share My Personal Information" [ref=f6e169] [cursor=pointer]:
+                - /url: https://poppies.us/do-not-sell-or-share-my-personal-information
+            - listitem [ref=f6e170]:
+              - link "Grievance Procedure" [ref=f6e171] [cursor=pointer]:
+                - /url: https://poppies.us/wp-content/uploads/2026/04/Local-Community-and-Indigenous-Grievance-Mechanism.pdf
+        - generic [ref=f6e172]: © 2023 Poppies International Inc.
+  - generic [ref=f6e174]: mobile

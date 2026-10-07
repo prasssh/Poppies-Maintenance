@@ -1,0 +1,178 @@
+- generic [active] [ref=e1]:
+  - dialog "Manage Cookie Consent" [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: Manage Cookie Consent
+      - text: 
+    - generic [ref=e5]: To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    - button "Accept" [ref=e8] [cursor=pointer]
+    - list [ref=e10]:
+      - listitem [ref=e11]:
+        - link "Opt-out preferences" [ref=e12] [cursor=pointer]:
+          - /url: https://poppies.us/opt-out-preferences
+      - listitem [ref=e13]:
+        - link "Privacy Statement" [ref=e14] [cursor=pointer]:
+          - /url: https://poppies.us/privacy-statement-us
+      - listitem [ref=e15]:
+        - link "Imprint" [ref=e16] [cursor=pointer]:
+          - /url: https://poppies.us/imprint
+  - link "Skip to content" [ref=e17] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e18]:
+    - generic [ref=e20]:
+      - generic [ref=e24]:
+        - navigation "Menu" [ref=e25]:
+          - list [ref=e26]:
+            - listitem [ref=e27]:
+              - link [ref=e28] [cursor=pointer]:
+                - /url: https://poppies.us/products
+                - text: Products
+                - generic [ref=e29]:
+                  - generic [aria-hidden]: 
+        - text: 
+      - link [ref=e34] [cursor=pointer]:
+        - /url: https://poppies.us
+        - img "Poppies" [ref=e35]
+      - generic [ref=e39]:
+        - navigation "Menu" [ref=e42]:
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - link "Where to Buy" [ref=e45] [cursor=pointer]:
+                - /url: https://poppies.us/where-to-buy
+            - listitem [ref=e46]:
+              - link "Contact Us" [ref=e47] [cursor=pointer]:
+                - /url: https://poppies.us/contact-us
+        - text:        
+  - main [ref=e51]:
+    - article [ref=e52]:
+      - generic [ref=e53]:
+        - heading "Terms of Use" [level=1] [ref=e55]
+        - generic [ref=e56]:
+          - paragraph [ref=e57]: "Last updated: June 1, 2020"
+          - paragraph [ref=e58]:
+            - text: These Terms of Use (the
+            - strong [ref=e59]: “Terms”
+            - text: ", the"
+            - strong [ref=e60]: “Terms of Use”
+            - text: ) govern your access or use of the www.poppies.us website (this
+            - strong [ref=e61]: “Website”
+            - text: ) and its contents, products and services (the
+            - strong [ref=e62]: “Service(s)”
+            - text: ) as more fully defined in Section 1 below. This Website and all Poppies activities related to this Website are operated and made available in the United States and its territories by Poppies and its subsidiaries, representatives and affiliates (collectively,
+            - strong [ref=e63]: “Poppies”
+            - text: ","
+            - strong [ref=e64]: “us”
+            - text: ","
+            - strong [ref=e65]: “we”
+            - text: ", or"
+            - strong [ref=e66]: “our”
+            - text: ).
+          - paragraph [ref=e67]: PLEASE READ THESE TERMS CAREFULLY BEFORE ACCESSING OR USING THE SERVICES, AS YOUR ACCESS TO AND USE OF THE SERVICES IS CONDITIONED UPON YOUR ACCEPTANCE OF AND COMPLIANCE WITH THESE TERMS. BY ACCESSING OR USING THE SERVICES YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, YOU DO NOT HAVE PERMISSION TO ACCESS OR USE THE SERVICES. THESE TERMS APPLY TO ALL VISITOR, USERS, AND OTHER WHO WISH TO ACCESS OR USE THE SERVICES.
+          - paragraph [ref=e68]: THIS SITE IS NOT INTENDED FOR MINORS. YOU MUST BE AT LEAST 18 YEARS OLD TO VISIT THIS SITE. IF YOU ARE UNDER THE AGE OF 18, YOU ARE NOT PERMITTED TO ACCESS OR USE THIS SITE FOR ANY REASON OR UNDER ANY CONDITIONS.
+          - paragraph [ref=e69]: Poppies’ collection and use of personal information in connection with the Services is described in our Privacy Policy.
+          - paragraph [ref=e70]:
+            - strong [ref=e71]: 1. The Services
+          - paragraph [ref=e72]: The general purpose of this Website is to provide information about Poppies’ services.
+          - paragraph [ref=e73]:
+            - strong [ref=e74]: 2. Intellectual Property
+          - paragraph [ref=e75]: This site is not for the commercial use of others. The Services and its original content, features and functionality are and will remain the exclusive property of Poppies and its licensors. The Services is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Poppies.
+          - paragraph [ref=e76]:
+            - strong [ref=e77]: 3. Third Party Links
+          - paragraph [ref=e78]: Our Services may contain links to or may be made available or accessed in connection with third party websites, services, products or content (“Third Party Links”) that are not owned or controlled by Poppies. Poppies has no control over and assumes no responsibility for the content, privacy policies, or practices of any Third Party Links. Poppies does not endorse such Third Party Links, and in no event shall Poppies be responsible or liable for any such Third Party Links.
+          - paragraph [ref=e79]: WE STRONGLY ADVISE YOU TO READ THE TERMS AND CONDITIONS AND PRIVACY POLICIES OF ANY THIRD PARTY LINKS OR SERVICES THAT YOU VISIT.
+          - paragraph [ref=e80]: "By using or accessing our Services you acknowledge and agree that:"
+          - list [ref=e81]:
+            - listitem [ref=e82]: different terms of use and privacy policies may apply to your use or access of such Third Party Links and that
+            - listitem [ref=e83]: Poppies shall not be responsible or liable directly or indirectly, for any damage or loss caused by or in connection with use or reliance or such Third Party Links.
+          - paragraph [ref=e84]:
+            - strong [ref=e85]: 4. Modifications
+          - paragraph [ref=e86]: Poppies reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least thirty (30) days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Services after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Services.
+          - paragraph [ref=e87]:
+            - strong [ref=e88]: 5. Termination
+          - paragraph [ref=e89]: Poppies may, immediately and without prior notice or liability, terminate these Terms and/or any Services with respect to you, or generally cease offering or bar access to the Services, in whole or in part, at any time for any reason whatsoever and without limitation, including, but not limited to, suspending, terminating or baring access to your Account. All provisions of the Terms which by their nature should survive termination of your Account or any other Services shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+          - paragraph [ref=e90]: If you wish to terminate any of your Services such as your Account, you may simply discontinue using the Services or you may contact us at the contact information provided in Section 10 below.
+          - paragraph [ref=e91]:
+            - strong [ref=e92]: 6. Indemnification
+          - paragraph [ref=e93]: You agree to defend, indemnify and hold harmless Poppies and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees), resulting from or arising out of a) your use and access of the Services, by you or any person using your account and password, or b) a breach of these Terms.
+          - paragraph [ref=e94]:
+            - strong [ref=e95]: 7. Limitation of Liability
+          - paragraph [ref=e96]: In no event shall Poppies, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Services; (ii) any conduct or content of any third party on the Services; (iii) any content obtained from the Services; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+          - paragraph [ref=e97]:
+            - strong [ref=e98]: 8. Disclaimer
+          - paragraph [ref=e99]: Your use of the Services is at your sole risk. The Services are provided on an “AS IS” and “AS AVAILABLE” basis. The Services are provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+          - paragraph [ref=e100]: "Poppies and its licensors DO NOT warrant that:"
+          - list [ref=e101]:
+            - listitem [ref=e102]: the Services will function uninterrupted, secure or available at any particular time or location;
+            - listitem [ref=e103]: any errors or defects will be corrected; c) the Services is free of viruses or other harmful components; or that the results of using the Services will meet your requirements.
+          - paragraph [ref=e104]:
+            - strong [ref=e105]: 9. Additional Terms
+          - paragraph [ref=e106]: Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Services. These Terms expressly supersede and replace any prior agreements or arrangements with you regarding the Services. No joint venture, partnership, employment, or agency relationship exists between you, Poppies or any related third-party as a result of these Terms or access or use of this Website or the Services.
+          - paragraph [ref=e107]: Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.
+          - paragraph [ref=e108]:
+            - strong [ref=e109]: 10. Contact Us
+          - paragraph [ref=e110]: If you have any questions about these Terms, you can contact us directly through this Website, or via email at info@poppies.us.
+  - contentinfo [ref=e112]:
+    - generic [ref=e114]:
+      - generic [ref=e116]:
+        - paragraph [ref=e119]: Subscribe to our newsletter for exclusive deals and the latest on products.
+        - form "New Form" [ref=e122]:
+          - generic [ref=e123]:
+            - textbox "Email Address" [ref=e125]
+            - generic [ref=e128]:
+              - checkbox "I agree to receive marketing emails from Poppies International Inc." [ref=e129]
+              - text: I agree to receive marketing emails from Poppies International Inc.
+            - button "Subscribe" [ref=e131] [cursor=pointer]
+        - generic [ref=e135]:
+          - text: By signing up, you are agreeing to our
+          - link "Privacy Policy" [ref=e136] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - text: .
+      - generic [ref=e138]:
+        - list [ref=e141]:
+          - listitem [ref=e142]:
+            - link "Instagram" [ref=e143] [cursor=pointer]:
+              - /url: https://www.instagram.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=e145]: 
+          - listitem [ref=e146]:
+            - link "Facebook" [ref=e147] [cursor=pointer]:
+              - /url: https://www.facebook.com/EatPoppiesTreats/
+              - generic [aria-hidden] [ref=e149]: 
+          - listitem [ref=e150]:
+            - link "Twitter" [ref=e151] [cursor=pointer]:
+              - /url: https://twitter.com/PoppiesTreats
+              - generic [aria-hidden] [ref=e153]: 
+          - listitem [ref=e154]:
+            - link "Pinterest" [ref=e155] [cursor=pointer]:
+              - /url: https://www.pinterest.com/eatpoppiestreats/
+              - generic [aria-hidden] [ref=e157]: 
+          - listitem [ref=e158]:
+            - link "Linkedin-in" [ref=e159] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/poppies-int/
+              - generic [aria-hidden] [ref=e161]: 
+        - link "FAQ" [ref=e164] [cursor=pointer]:
+          - /url: https://poppies.us/faq/
+        - navigation "Menu" [ref=e167]:
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - link "Privacy Policy" [ref=e170] [cursor=pointer]:
+                - /url: https://poppies.us/privacy-policy
+            - listitem [ref=e171]:
+              - link "Terms of Use" [ref=e172] [cursor=pointer]:
+                - /url: https://poppies.us/terms-of-use
+            - listitem [ref=e173]:
+              - link "Delizza.us" [ref=e174] [cursor=pointer]:
+                - /url: https://delizza.us
+            - listitem [ref=e175]:
+              - link "Poppies.com" [ref=e176] [cursor=pointer]:
+                - /url: https://poppies.com
+            - listitem [ref=e177] [cursor=pointer]:
+              - generic [ref=e178]: Manage Consent
+        - navigation "Menu" [ref=e181]:
+          - list [ref=e182]:
+            - listitem [ref=e183]:
+              - link "Do Not Sell or Share My Personal Information" [ref=e184] [cursor=pointer]:
+                - /url: https://poppies.us/do-not-sell-or-share-my-personal-information
+            - listitem [ref=e185]:
+              - link "Grievance Procedure" [ref=e186] [cursor=pointer]:
+                - /url: https://poppies.us/wp-content/uploads/2026/04/Local-Community-and-Indigenous-Grievance-Mechanism.pdf
+        - generic [ref=e187]: © 2023 Poppies International Inc.
+  - generic [ref=e189]: desktop
